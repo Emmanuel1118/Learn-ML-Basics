@@ -10,6 +10,18 @@ As of now, this repository contains resources centered mostly around deep learni
 
 - [Software and IDEs](#software-and-ides)
 
+- [Prereqisits](#prerequisits)
+
+- [Theory](#theory)
+
+- [MOOCs](#moocs)
+
+- [Basic DL in TensorFlow](#basic-dl-in-tensorflow)
+
+- [Non Programming Lectures](#non-programming-lectures)
+
+- [More Math](#more-math)
+
 ## Software and IDEs
 
 ## Prerequisits
