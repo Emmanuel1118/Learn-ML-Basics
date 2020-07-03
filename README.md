@@ -20,8 +20,6 @@ As of now, this repository contains resources centered mostly around deep learni
 
 - [Non Programming Lectures](#non-programming-lectures)
 
-- [More Math](#more-math)
-
 ## Software and IDEs
 
 - [Python](https://www.python.org/downloads/) is currently the best language for those who are new to machine learning, as it enables to do a lot very simply. I recommend installing python 3.7 as it has the best library support at the date of writing this.
@@ -32,13 +30,15 @@ As of now, this repository contains resources centered mostly around deep learni
 
 ## Prerequisits
 
-To deeply understand the basic theory it is highly recommended (yet not necessary) to understand multivariably calculus and linear algebra matrix operations.
+To deeply understand the basic theory it is highly recommended (yet not necessary) to understand multivariably calculus and linear algebra matrix operations. You also need to know basic python and programming.
 
 - [Essance of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 - [Essance of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 - [Multivariable Calculus](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) (if you want you can stop at either 25 or 34)
+
+- [Introduction to Python 3 Programming Tutorial](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (if you are not familiar with python)
 
 ## Theory
 
@@ -58,6 +58,12 @@ There are two great DL libraries in python - TensorFlow and PyTorch. From my exp
 
 - [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) is a series that will guide you to create deep learning algorithms in raw python and numpy. At the time of writing this the series is not complete but this can be seen as a great opportunity - try and [complete it yourself](#theory).
 
+- [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+
 ## Non Programming Lectures
 
-## More Math
+- [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
+
+- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
+
+- [AI Podcast by Lex Fridman](https://www.youtube.com/user/lexfridman) (it isn't really related to learning, but it is a great inspiration)
