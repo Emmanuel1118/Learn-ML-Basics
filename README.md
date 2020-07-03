@@ -50,7 +50,13 @@ As ML and DL are very differnt paradigms than regular programming approaches, th
 
 ## MOOCs
 
+- [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) is a massivly open online course held by Harvard. It covers general practical and theoretical ideas in AI, and has quizes to test yourself as well as graded assignments in python. I highly recommend it, it is self-paced and completely free (unless you want the edX certificate). So create an edX account and enroll if it sounds interesting.
+
 ## Basic DL in TensorFlow
+
+There are two great DL libraries in python - TensorFlow and PyTorch. From my expirience, TensorFlow is much easier to work with especially in terms of data preperation. It is very high-level, so I encourage you to make sure you understand the basics by creating deep neural nets from scratch.
+
+- [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) is a series that will guide you to create deep learning algorithms in raw python and numpy. At the time of writing this the series is not complete but this can be seen as a great opportunity - try and [complete it yourself](#theory).
 
 ## Non Programming Lectures
 
