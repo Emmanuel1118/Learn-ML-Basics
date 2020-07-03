@@ -32,9 +32,21 @@ As of now, this repository contains resources centered mostly around deep learni
 
 ## Prerequisits
 
-- [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) is a youtube series by 3Blue1Brown covering the basics of deep neural networks in detail. I highly recommend watching it and writing main ideas and equations as you do so.
+To deeply understand the basic theory it is highly recommended (yet not necessary) to understand multivariably calculus and linear algebra matrix operations.
+
+- [Essance of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+- [Essance of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+- [Multivariable Calculus](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) (if you want you can stop at either 25 or 34)
 
 ## Theory
+
+As ML and DL are very differnt paradigms than regular programming approaches, thare are many key concepts that need to be well understood in order to progress effectivly.
+
+- [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) is a youtube series by 3Blue1Brown covering the basics of deep neural networks in detail. I highly recommend watching it and writing main ideas and equations as you do so.
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a free online book that covers many of the same topics as the 3Blue1Brown series and more, with slight differences in notation and presentation. There is no need to read everything in order to get started with the programming.
 
 ## MOOCs
 
