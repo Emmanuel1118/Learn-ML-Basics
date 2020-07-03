@@ -8,6 +8,8 @@ As of now, this repository contains resources centered mostly around deep learni
 
 ## Contents
 
+- [Software and IDEs](#software and IDEs)
+
 ## Software and IDEs
 
 ## Prerequisits
