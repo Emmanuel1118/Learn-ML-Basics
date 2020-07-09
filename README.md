@@ -52,6 +52,8 @@ As ML and DL are very differnt paradigms than regular programming approaches, th
 
 - [Recurrent Networks | MIT](https://www.youtube.com/watch?v=SEnXr6v2ifU)
 
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 ## MOOCs
 
 - [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) is a massivly open online course held by Harvard. It covers general practical and theoretical ideas in AI, and has quizes to test yourself as well as graded assignments in python. I highly recommend it, it is self-paced and completely free (unless you want the edX certificate, which isn't neccessary at all in my opinion). So create an edX account and enroll if it sounds interesting.
