@@ -48,6 +48,8 @@ As ML and DL are very differnt paradigms than regular programming approaches, th
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a free online book that covers many of the same topics as the 3Blue1Brown series and more, with slight differences in notation and presentation. There is no need to read everything in order to get started with the programming, but if you do, the learning will be easier.
 
+- [Stanford CS231N Convolutional Networks](https://www.youtube.com/watch?v=bNb2fEVKeEo) (I recommend watching after you tried creating linear networks)
+
 ## MOOCs
 
 - [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) is a massivly open online course held by Harvard. It covers general practical and theoretical ideas in AI, and has quizes to test yourself as well as graded assignments in python. I highly recommend it, it is self-paced and completely free (unless you want the edX certificate, which isn't neccessary at all in my opinion). So create an edX account and enroll if it sounds interesting.
