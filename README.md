@@ -48,7 +48,7 @@ As ML and DL are very differnt paradigms than regular programming approaches, th
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) is a free online book that covers many of the same topics as the 3Blue1Brown series and more, with slight differences in notation and presentation. There is no need to read everything in order to get started with the programming, but if you do, the learning will be easier.
 
-I recommend watching these after you tried creating basic linear deep neural networks
+I recommend watching these after you tried creating basic linear deep neural networks:
 
 - [Convolutional Networks | Stanford](https://www.youtube.com/watch?v=bNb2fEVKeEo)
 
