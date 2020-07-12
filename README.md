@@ -28,6 +28,8 @@ As of now, this repository contains resources centered mostly around deep learni
 
 - [Anaconda](https://www.anaconda.com/products/individual) is an open source distribution of python that contains many of the basic ML libraries as well as many other useful ones. It is not necessary at all on a begginer level, but it has a few advantages such as great package management as well as built in jupiter support.
 
+-[CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) is an API for using NVIDIA GPUs. Download version 10.1 if you want to use it with TensorFlow. Alternatively you can run "conda install -c anaconda cudatoolkit" in the Anaconda prompt (it worked for me with TF 1.5). Then run "conda install tensorflow-gpu" to get tensorflow. To check if TensorFlow sees your GPU open python and print(tf.test.is_gpu_available).
+
 ## Prerequisits
 
 To deeply understand the basic theory it is highly recommended (yet not necessary) to understand multivariable calculus and linear algebra matrix operations. You also need to know basic python and programming.
