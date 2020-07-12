@@ -10,7 +10,7 @@ As of now, this repository contains resources centered mostly around deep learni
 
 - [Software and IDEs](#software-and-ides)
 
-- [Prereqisits](#prerequisits)
+- [Prereqisites](#prerequisites)
 
 - [Theory](#theory)
 
@@ -30,13 +30,13 @@ As of now, this repository contains resources centered mostly around deep learni
 
 - [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) is an API for using NVIDIA GPUs. Download version 10.1 if you want to use it with TensorFlow. Alternatively you can run "conda install -c anaconda cudatoolkit" in the Anaconda prompt (it worked for me with TF 1.5). Then run "conda install tensorflow-gpu" to get tensorflow. To check if TensorFlow sees your GPU open python and print(tf.test.is_gpu_available).
 
-## Prerequisits
+## Prerequisites
 
 To deeply understand the basic theory it is highly recommended (yet not necessary) to understand multivariable calculus and linear algebra matrix operations. You also need to know basic python and programming.
 
-- [Essance of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-- [Essance of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 - [Multivariable Calculus](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) (if you want you can stop at either 25 or 34)
 
@@ -60,7 +60,7 @@ I recommend watching these after you tried creating basic linear deep neural net
 
 ## MOOCs
 
-- [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) is a massivly open online course held by Harvard. It covers general practical and theoretical ideas in AI, and has quizes to test yourself as well as graded assignments in python. I highly recommend it, it is self-paced and completely free (unless you want the edX certificate, which isn't neccessary at all in my opinion). So create an edX account and enroll if it sounds interesting.
+- [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) is a massively open online course held by Harvard. It covers general practical and theoretical ideas in AI, and has quizes to test yourself as well as graded assignments in python. I highly recommend it, it is self-paced and completely free (unless you want the edX certificate, which isn't neccessary at all in my opinion). So create an edX account and enroll if it sounds interesting.
 
 ## Basic DL in TensorFlow
 
