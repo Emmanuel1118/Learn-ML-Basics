@@ -66,6 +66,8 @@ I recommend watching these after you tried creating basic linear deep neural net
 
 There are two great DL libraries in python - TensorFlow and PyTorch. From my expirience, TensorFlow is much easier to work with especially in terms of data preperation. It is very high-level, so I encourage you to make sure you understand the basics by creating deep neural nets from scratch.
 
+- [TensorFlow Playground](https://playground.tensorflow.org/) is an interactive tool for getting the intuition behind key ideas in DL, such as activation types, dataset features, and overfitting.
+
 - [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) is a series that will guide you to create deep learning algorithms in raw python and numpy. At the time of writing this the series is not complete but this can be seen as a great opportunity - try and [complete it yourself](#theory).
 
 - [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
