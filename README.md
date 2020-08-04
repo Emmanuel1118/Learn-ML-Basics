@@ -36,7 +36,7 @@ This section contains a recommended order in which the material in this reposito
 
 - Watch the first Playlist listed in the [theory](#theory) section (you can also read the book if you want).
 
-- Go through the entire [Basic DL in TensorFlow](#basic-dl-in-tensorflow) part. As you watch it, use the remaining resources in the [theory](#theory) section.
+- Install Anaconda and CUDA if you haven't yet, and go through the entire [Basic DL in TensorFlow](#basic-dl-in-tensorflow) part. As you watch it, use the remaining resources in the [theory](#theory) section.
 
 ## Software and IDEs
 
