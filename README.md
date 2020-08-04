@@ -6,7 +6,11 @@ My goal with this repository is to create an easy to follow and well paced progr
 
 As of now, this repository contains resources centered mostly around deep learning. I hope to add more as I learn and discover the field. I an in no way qualified for this as I am just a begginer, so this is more of a documentation of my learning proccess.
 
+I hope that the material found here can bring anyone with basic programming knowlage to an intuitive understanding of the main concepts behind deep learning, and the ability to create basic DL classifiers, as well as enough understanding to learn more independently.
+
 ## Contents
+
+- [Step by Step Program](#step-by-step-program)
 
 - [Software and IDEs](#software-and-ides)
 
@@ -19,6 +23,20 @@ As of now, this repository contains resources centered mostly around deep learni
 - [Basic DL in TensorFlow](#basic-dl-in-tensorflow)
 
 - [Non Programming Lectures](#non-programming-lectures)
+
+## Step by Step Program
+
+This section contains a recommended order in which the material in this repository should be learned. This should only act as a general outline, so I encourage anyone to try more resources about various other topics in the field of ML.
+
+- Install the [listed software](#software-and-ides). You can start by installing only Python and VSCode, and add Anaconda and CUDA later.
+
+- Make sure you know the [prereqisites](#prerequisites). Watch the math videos in order, and learn python before or after that.
+
+- If you wish to have a bit more background in CS, enroll to [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python). This step is completely optional.
+
+- Watch the first Playlist listed in the [theory](#theory) section (you can also read the book if you want).
+
+- Go through the entire [Basic DL in TensorFlow](#basic-dl-in-tensorflow) part. As you watch it, use the remaining resources in the [theory](#theory) section.
 
 ## Software and IDEs
 
