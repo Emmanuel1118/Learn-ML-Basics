@@ -30,7 +30,7 @@ This section contains a recommended order in which the material in this reposito
 
 - Install the [listed software](#software-and-ides). You can start by installing only Python and VSCode, and add Anaconda and CUDA later.
 
-- Make sure you know the [prereqisites](#prerequisites). Watch the math videos in order, and learn python before or after that.
+- Make sure you know the [prereqisites](#prerequisites). Watch the math videos in order, and learn python before or after that (or in parallel).
 
 - If you wish to have a bit more background in CS, enroll to [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python). This step is completely optional.
 
@@ -84,7 +84,7 @@ I recommend watching these after you tried creating basic linear deep neural net
 
 There are two great DL libraries in python - TensorFlow and PyTorch. From my expirience, TensorFlow is much easier to work with especially in terms of data preperation. It is very high-level, so I encourage you to make sure you understand the basics by creating deep neural nets from scratch.
 
-- [TensorFlow Playground](https://playground.tensorflow.org/) is an interactive tool for getting the intuition behind key ideas in DL, such as activation types, dataset features, and overfitting.
+- [TensorFlow Playground](https://playground.tensorflow.org/) is an interactive tool for getting the intuition behind key ideas in DL, such as activation types, dataset features, and overfitting. Use it in parallel with the lectures and videos to better understand the topics discussed in them.
 
 - [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) is a series that will guide you to create deep learning algorithms in raw python and numpy. At the time of writing this the series is not complete but this can be seen as a great opportunity - try and [complete it yourself](#theory).
 
