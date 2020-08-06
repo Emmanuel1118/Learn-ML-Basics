@@ -90,6 +90,8 @@ There are two great DL libraries in python - TensorFlow and PyTorch. From my exp
 
 - [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
+- [TensorFlow Object Detection API](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku)
+
 ## Non Programming Lectures
 
 - [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
