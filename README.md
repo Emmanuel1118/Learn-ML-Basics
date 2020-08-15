@@ -2,7 +2,7 @@
 
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) is a rapidly evolving field which focuses on computer algorithms that improve over experience. The experience can take the forms of training data, trial and error in a simulated environment, and a lot more.
 
-My goal with this repository is to create an easy to follow and well paced program that relies entirely on online resources. I am not seeking to create a classification of all available resources on the topic, as there are many of those, and in order for them to be of any use one must already know the basics of the field.
+My goal with this repository is to create an easy to follow and well paced program that relies entirely on online resources. I am not seeking to create a classification of all available resources on the topic, as there are many of those, and in order for them to be of any use one must already know the basics of the field (if this is what you seek [here](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) is a repo that does exactly that, and I added more in the [more resources] section).
 
 As of now, this repository contains resources centered mostly around deep learning. I hope to add more as I learn and discover the field. I an in no way qualified for this as I am just a begginer, so this is more of a documentation of my learning proccess.
 
@@ -21,6 +21,8 @@ I hope that the material found here can bring anyone with basic programming know
 - [MOOCs](#moocs)
 
 - [Basic DL in TensorFlow](#basic-dl-in-tensorflow)
+
+- [More Resources](#more-resources)
 
 - [Non Programming Lectures](#non-programming-lectures)
 
@@ -91,6 +93,12 @@ There are two great DL libraries in python - TensorFlow and PyTorch. From my exp
 - [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
 - [TensorFlow Object Detection API](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku)
+
+## More Resources
+
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) is a classification of many resources on the TensorFlow library
+
+- [Official TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
 ## Non Programming Lectures
 
