@@ -40,6 +40,8 @@ This section contains a recommended order in which the material in this reposito
 
 - Install Anaconda and CUDA if you haven't yet, and go through the entire [Basic DL in TensorFlow](#basic-dl-in-tensorflow) part. As you watch it, use the remaining resources in the [theory](#theory) section.
 
+- Learn more yourself. I created the [more resources](#more-resources) section to list resources that might help with that (but I highly recommend finding more resources and doing more projects independently).
+
 ## Software and IDEs
 
 - [Python](https://www.python.org/downloads/) is currently the best language for those who are new to machine learning, as it enables to do a lot very simply. I recommend installing python 3.7 as it has the best library support at the date of writing this.
