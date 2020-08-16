@@ -2,9 +2,11 @@
 
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) is a rapidly evolving field which focuses on computer algorithms that improve over experience. The experience can take the forms of training data, trial and error in a simulated environment, and a lot more.
 
+Using the material and the learning plan found here, you can get from no experience in python to a deep mathmatical and practical understanding of key ideas in ML, and more importantly you should be able to know what to do to continue learning independently.
+
 My goal with this repository is to create an easy to follow and well paced program that relies entirely on online resources. I am not seeking to create a classification of all available resources on the topic, as there are many of those, and in order for them to be of any use one must already know the basics of the field (if this is what you seek [here](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) is a repo that does exactly that, and I added more in the [more resources](#more-resources) section).
 
-As of now, this repository contains resources centered mostly around deep learning. I hope to add more as I learn and discover the field. I an in no way qualified for this as I am just a begginer, so this is more of a documentation of my learning proccess.
+As of now, this repository contains resources centered mostly around deep learning. I hope to add more as I learn and discover the field. I an in no way qualified for this as I am just a begginer, so this is more of a documentation of my learning proccess. If you have ideas on how to expand it, please let me know.
 
 I hope that the material found here can bring anyone with basic programming knowlage to an intuitive understanding of the main concepts behind deep learning, and the ability to create basic DL classifiers, as well as enough understanding to learn more independently.
 
