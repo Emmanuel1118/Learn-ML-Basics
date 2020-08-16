@@ -100,6 +100,8 @@ There are two great DL libraries in python - TensorFlow and PyTorch. From my exp
 
 ## More Resources
 
+- [Kaggle](https://www.kaggle.com/) is a Data science community and a great place to find DataSets and explore projects.
+
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) is a classification of many resources on the TensorFlow library
 
 - [Official TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
