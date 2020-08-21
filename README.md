@@ -16,7 +16,7 @@ I hope that the material found here can bring anyone with basic programming know
 
 - [Software and IDEs](#software-and-ides)
 
-- [Prereqisites](#prerequisites)
+- [Prerequisite](#prerequisites)
 
 - [Theory](#theory)
 
